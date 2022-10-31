@@ -8,6 +8,7 @@ Documentation:
 | --- | --- |
 | 1 | Gunivers |
 | 2 | Altearn |
+| 3 | CO2023 |
 
 ### Golden hoe (Partners logos)
 | CustomModelData | Texture |
