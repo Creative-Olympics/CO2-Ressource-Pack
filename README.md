@@ -7,6 +7,7 @@ Documentation:
 | CustomModelData | Texture |
 | --- | --- |
 | 1 | Gunivers |
+| 2 | Altearn |
 
 ### Golden hoe (Partners logos)
 | CustomModelData | Texture |
