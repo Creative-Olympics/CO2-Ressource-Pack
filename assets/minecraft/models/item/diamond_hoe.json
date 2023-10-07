@@ -21,6 +21,12 @@
         "custom_model_data": 3
       },
       "model": "brand:logos/organizers/CO2023"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "brand:logos/organizers/CO"
     }
   ]
 }
