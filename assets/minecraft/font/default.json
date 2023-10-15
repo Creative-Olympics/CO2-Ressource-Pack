@@ -2,42 +2,42 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:wallstreet/wood.png",
+            "file": "minecraft:item/stick.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:wallstreet/stone.png",
+            "file": "minecraft:item/clay_ball.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE002"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:wallstreet/leather.png",
+            "file": "minecraft:item/leather.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE003"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:wallstreet/iron.png",
+            "file": "minecraft:item/iron_ingot.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE004"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:wallstreet/diamond.png",
+            "file": "minecraft:item/diamond.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE005"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:wallstreet/coin.png",
+            "file": "minecraft:item/emerald.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE006"]
