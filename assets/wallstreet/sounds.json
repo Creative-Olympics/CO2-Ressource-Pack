@@ -1,0 +1,22 @@
+{
+    "theme-1": {
+      "sounds": [
+        "wallstreet/background-trap-by-alexi-action"
+      ]
+    },
+    "theme-2": {
+        "sounds": [
+          "wallstreet/enigma-dream-by-sergio-prosvirini"
+        ]
+    },
+    "theme-3": {
+        "sounds": [
+          "wallstreet/new-digital-world-by-bohdan-kuzmin"
+        ]
+    },
+    "theme-4": {
+        "sounds": [
+          "wallstreet/this-minimal-technology-pure-by-yrii-semchyshyn"
+        ]
+    }
+}
