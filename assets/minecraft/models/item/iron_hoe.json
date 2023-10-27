@@ -1,8 +1,7 @@
 {
   "parent": "item/handheld",
   "textures": {
-      "layer0": "item/iron_hoe"
+    "layer0": "item/iron_hoe"
   },
-  "overrides": [
-  ]
+  "overrides": []
 }

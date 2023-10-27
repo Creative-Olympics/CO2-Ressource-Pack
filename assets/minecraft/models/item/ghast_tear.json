@@ -3,8 +3,12 @@
 	"textures": {
 		"layer0": "item/ghast_tear"
 	},
-	
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/invisible"}
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/invisible"
+		}
 	]
 }
