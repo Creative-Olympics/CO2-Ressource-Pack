@@ -1,5 +1,5 @@
 # CO2-Ressource-Pack
- 
+
 ## Documentation:
 ### Custom Model Datas:
 Diamond hoe (Organizers logos)
@@ -15,6 +15,10 @@ Golden hoe (Partners logos)
 | --- | --- |
 
 Iron hoe (Banners)
+| CustomModelData | Texture |
+| --- | --- |
+
+Stone hoe (Cosmetics)
 | CustomModelData | Texture |
 | --- | --- |
 
