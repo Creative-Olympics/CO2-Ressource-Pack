@@ -1,17 +1,17 @@
 {
     "theme-1": {
       "sounds": [
-        "dropper/theme-1"
+        "dropper:theme-1"
       ]
     },
     "theme-2": {
         "sounds": [
-          "dropper/theme-2"
+          "dropper:theme-2"
         ]
     },
     "theme-3": {
         "sounds": [
-          "dropper/theme-3"
+          "dropper:theme-3"
         ]
     }
 }

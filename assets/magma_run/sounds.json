@@ -1,7 +1,7 @@
 {
     "theme": {
       "sounds": [
-        "magma_run/theme"
+        "magma_run:theme"
       ]
     }
 }

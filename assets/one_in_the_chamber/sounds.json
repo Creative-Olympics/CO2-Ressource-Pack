@@ -1,12 +1,12 @@
 {
     "theme-1": {
       "sounds": [
-        "one_in_the_chamber/theme-1"
+        "one_in_the_chamber:theme-1"
       ]
     },
     "theme-2": {
         "sounds": [
-          "one_in_the_chamber/theme-2"
+          "one_in_the_chamber:theme-2"
         ]
     }
 }

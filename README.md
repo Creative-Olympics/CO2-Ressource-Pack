@@ -30,7 +30,7 @@ Ghast Tear
 Carrot On A Stick
 | CustomModelData | Texture |
 | --- | --- |
-| 1 | Invisible Item (Prophunt) |
+| 1 | Invisible Item (Global) |
 
 ### Custom Fonts:
 | Font | Texture |

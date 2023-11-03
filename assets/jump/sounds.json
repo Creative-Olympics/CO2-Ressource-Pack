@@ -1,7 +1,7 @@
 {
     "theme": {
       "sounds": [
-        "jump/theme"
+        "jump:theme"
       ]
     }
 }
