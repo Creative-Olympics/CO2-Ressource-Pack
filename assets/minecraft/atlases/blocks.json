@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "banners",
+      "prefix": "banners/"
+    },
+    {
+      "type": "directory",
+      "source": "logos",
+      "prefix": "logos/"
+    },
+    {
+      "type": "directory",
+      "source": "cosmetics",
+      "prefix": "cosmetics/"
+    }
+  ]
+}
