@@ -12,8 +12,8 @@
     },
     {
       "type": "directory",
-      "source": "cosmetics",
-      "prefix": "cosmetics/"
+      "source": "hats",
+      "prefix": "hats/"
     }
   ]
 }
