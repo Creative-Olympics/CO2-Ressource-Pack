@@ -67,10 +67,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_pika",
-         "predicate":{  
-            "damage":0.02496798975672215,
-            "damaged":0
+         "model":"cosmetics:hats/pika",
+         "predicate":{
+            "custom_model_data": 10
          }
       },
       {  
