@@ -152,10 +152,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_rebels",
-         "predicate":{  
-            "damage":0.05633802816901408,
-            "damaged":0
+         "model": "cosmetics:hats/rebels",
+         "predicate": {  
+            "custom_model_data": 36
          }
       },
       {  
