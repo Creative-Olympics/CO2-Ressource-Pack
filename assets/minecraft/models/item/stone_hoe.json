@@ -180,10 +180,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_pvpcrown",
-         "predicate":{  
-            "damage":0.07170294494238155,
-            "damaged":0
+         "model":"cosmetics:hats/pvpcrown",
+         "predicate":{
+            "custom_model_data": 40
          }
       }
    ],
