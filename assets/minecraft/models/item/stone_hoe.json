@@ -25,10 +25,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_dragonhorns",
-         "predicate":{  
-            "damage":0.005121638924455826,
-            "damaged":0
+         "model":"cosmetics:hats/dragonhorns",
+         "predicate":{
+            "custom_model_data": 5
          }
       },
       {  
