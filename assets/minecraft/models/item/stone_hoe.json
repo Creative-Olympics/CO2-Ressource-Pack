@@ -31,10 +31,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_old",
-         "predicate":{  
-            "damage":0.009603072983354673,
-            "damaged":0
+         "model":"cosmetics:hats/old",
+         "predicate":{
+            "custom_model_data": 6
          }
       },
       {  
