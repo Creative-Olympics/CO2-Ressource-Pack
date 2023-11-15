@@ -160,39 +160,38 @@
          }
       },
       {  
-         "model":"item/custom/hat_strooper",
-         "predicate":{  
-            "damage":0.05569782330345711,
-            "damaged":0
+         "model": "cosmetics:hats/strooper",
+         "predicate": {
+            "custom_model_data": 35
          }
       },
       {  
          "model": "cosmetics:hats/rebels",
-         "predicate": {  
+         "predicate": {
             "custom_model_data": 36
          }
       },
       {  
-         "model":"cosmetics:hats/link",
-         "predicate":{  
+         "model": "cosmetics:hats/link",
+         "predicate": {
             "custom_model_data": 37
          }
       },
-      {  
-         "model":"cosmetics:hats/beard",
-         "predicate":{  
+      {
+         "model": "cosmetics:hats/beard",
+         "predicate": {
             "custom_model_data": 38
          }
       },
-      {  
-         "model":"cosmetics:hats/blinkingeyes",
-         "predicate":{  
+      {
+         "model": "cosmetics:hats/blinkingeyes",
+         "predicate": {
             "custom_model_data": 39
          }
       },
-      {  
-         "model":"cosmetics:hats/pvpcrown",
-         "predicate":{
+      {
+         "model": "cosmetics:hats/pvpcrown",
+         "predicate": {
             "custom_model_data": 40
          }
       }
