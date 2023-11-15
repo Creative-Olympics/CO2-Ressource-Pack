@@ -117,15 +117,14 @@
             "damaged":0
          }
       },
-      {  
-         "model":"item/custom/hat_fez",
-         "predicate":{  
-            "damage":0.030089628681177975,
-            "damaged":0
+      {
+         "model": "cosmetics:hats/fez",
+         "predicate": {
+            "custom_model_data": 29
          }
       },
       {
-         "model": "item/custom/hat_bow",
+         "model": "cosmetics:hats/bow",
          "predicate": {
             "custom_model_data": 30
          }
