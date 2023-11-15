@@ -37,10 +37,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_lion",
-         "predicate":{  
-            "damage":0.014724711907810498,
-            "damaged":0
+         "model":"cosmetics:hats/lion",
+         "predicate":{
+            "custom_model_data": 7
          }
       },
       {  
