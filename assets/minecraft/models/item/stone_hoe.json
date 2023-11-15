@@ -79,10 +79,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_beanie_red",
-         "predicate":{  
-            "damage":0.027528809218950064,
-            "damaged":0
+         "model":"cosmetics:hats/beanie_red",
+         "predicate":{
+            "custom_model_data": 12
          }
       },
       {  
