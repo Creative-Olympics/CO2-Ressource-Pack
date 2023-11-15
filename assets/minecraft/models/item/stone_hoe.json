@@ -188,10 +188,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_blinkingeyes",
+         "model":"cosmetics:hats/blinkingeyes",
          "predicate":{  
-            "damage":0.06850192061459667,
-            "damaged":0
+            "custom_model_data": 39
          }
       },
       {  
