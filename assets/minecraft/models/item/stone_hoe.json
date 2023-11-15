@@ -61,10 +61,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_goldwig",
-         "predicate":{  
-            "damage":0.019206145966709345,
-            "damaged":0
+         "model":"cosmetics:hats/goldwig",
+         "predicate":{
+            "custom_model_data": 10
          }
       },
       {  
