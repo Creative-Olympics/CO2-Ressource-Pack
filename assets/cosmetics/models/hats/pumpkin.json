@@ -3688,12 +3688,12 @@
     }
   ],
   "textures": {
-    "east": "item/hat_pumpkin_face",
-    "west": "item/hat_pumpkin_side",
-    "south": "item/hat_pumpkin_face2",
-    "north": "item/hat_pumpkin_face2",
-    "up": "block/pumpkin_bottom",
-    "down": "block/pumpkin_top",
-    "particle": "item/hat_pumpkin_side"
+    "east": "cosmetics:hats/pumpkin/face",
+    "west": "cosmetics:hats/pumpkin/side",
+    "south": "cosmetics:hats/pumpkin/face2",
+    "north": "cosmetics:hats/pumpkin/face2",
+    "up": "cosmetics:hats/pumpkin/bottom",
+    "down": "cosmetics:hats/pumpkin/top",
+    "particle": "cosmetics:hats/pumpkin/side"
   }
 }
