@@ -13639,8 +13639,7 @@
         }
     ],
     "textures": {
-        "texture": "cosmetics:hats/santa",
-        "particle": "cosmetics:hats/santa"
+        "texture": "cosmetics:hats/santa"
     },
     "ambientocclusion": false
 }
