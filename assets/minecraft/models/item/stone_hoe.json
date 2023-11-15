@@ -55,10 +55,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_bunnyears",
-         "predicate":{  
-            "damage":0.017285531370038413,
-            "damaged":0
+         "model":"cosmetics:hats/bunnyears",
+         "predicate":{
+            "custom_model_data": 10
          }
       },
       {  
