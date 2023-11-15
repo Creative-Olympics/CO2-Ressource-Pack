@@ -1,36 +1,21 @@
 {  
    "overrides":[  
       {  
-         "model":"brand:cosmetics/hats/axeinhead",
+         "model":"cosmetics:hats/axeinhead",
          "predicate":{
             "custom_model_data": 1
          }
       },
       {  
-         "model":"item/custom/hat_pumpkin",
+         "model":"cosmetics:hats/pumpkin",
          "predicate":{  
-            "damage":0.0012804097311139564,
-            "damaged":0
-         }
-      },
-      {  
-         "model":"item/custom/slime",
-         "predicate":{  
-            "damage":0.0019206145966709346,
-            "damaged":0
+            "custom_model_data": 2
          }
       },
       {  
          "model":"item/custom/hat_phoenix",
          "predicate":{  
             "damage":0.002560819462227913,
-            "damaged":0
-         }
-      },
-      {  
-         "model":"item/custom/faeshaskin",
-         "predicate":{  
-            "damage":0.003201024327784891,
             "damaged":0
          }
       },
@@ -42,51 +27,9 @@
          }
       },
       {  
-         "model":"item/custom/blackhole",
-         "predicate":{  
-            "damage":0.004481434058898847,
-            "damaged":0
-         }
-      },
-      {  
          "model":"item/custom/hat_dragonhorns",
          "predicate":{  
             "damage":0.005121638924455826,
-            "damaged":0
-         }
-      },
-      {  
-         "model":"item/custom/tardis",
-         "predicate":{  
-            "damage":0.005761843790012804,
-            "damaged":0
-         }
-      },
-      {  
-         "model":"item/custom/tardis1",
-         "predicate":{  
-            "damage":0.006402048655569782,
-            "damaged":0
-         }
-      },
-      {  
-         "model":"item/custom/deathblue",
-         "predicate":{  
-            "damage":0.00704225352112676,
-            "damaged":0
-         }
-      },
-      {  
-         "model":"item/custom/deathorange",
-         "predicate":{  
-            "damage":0.0076824583866837385,
-            "damaged":0
-         }
-      },
-      {  
-         "model":"item/custom/cosmos",
-         "predicate":{  
-            "damage":0.008322663252240717,
             "damaged":0
          }
       },
@@ -255,27 +198,6 @@
          "model":"item/custom/hat_pvpcrown",
          "predicate":{  
             "damage":0.07170294494238155,
-            "damaged":0
-         }
-      },
-      {  
-         "model":"item/custom/death",
-         "predicate":{  
-            "damage":0.07298335467349551,
-            "damaged":0
-         }
-      },
-      {  
-         "model":"item/custom/witch_hate",
-         "predicate":{  
-            "damage":0.07426376440460947,
-            "damaged":0
-         }
-      },
-      {  
-         "model":"item/custom/slender",
-         "predicate":{  
-            "damage":0.07490396927016645,
             "damaged":0
          }
       }

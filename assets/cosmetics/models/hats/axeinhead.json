@@ -2,8 +2,7 @@
 	"__comment": "Designed by Faesharaa with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"iron_axe": "item/iron_axe",
-		"particle": "block/e_particle",
-		"texture": "block/sang"
+		"sang": "cosmetics:hats/sang"
 	},
 	"elements": [ 	 
 		{
@@ -180,12 +179,12 @@
 			"from": [ 6.125, 1.75, 7 ],
 			"to": [ 10, 8.5, 12.375 ],
 			"faces": {
-				"down": { "uv": [ 0, 0, 1.5, 2 ], "texture": "#texture" },
-				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
-				"north": { "uv": [ 0, 0, 2, 3.5 ], "texture": "#texture" },
-				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "rotation": 180 },
-				"west": { "uv": [ 0, 0, 1, 3.5 ], "texture": "#texture" },
-				"east": { "uv": [ 0, 0, 1, 3.5 ], "texture": "#texture" }
+				"down": { "uv": [ 0, 0, 1.5, 2 ], "texture": "#sang" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#sang" },
+				"north": { "uv": [ 0, 0, 2, 3.5 ], "texture": "#sang" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#sang", "rotation": 180 },
+				"west": { "uv": [ 0, 0, 1, 3.5 ], "texture": "#sang" },
+				"east": { "uv": [ 0, 0, 1, 3.5 ], "texture": "#sang" }
 			}
 		}
 	],
