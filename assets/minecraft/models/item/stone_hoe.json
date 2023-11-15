@@ -13,10 +13,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_phoenix",
-         "predicate":{  
-            "damage":0.002560819462227913,
-            "damaged":0
+         "model":"cosmetics:hats/phoenix",
+         "predicate":{
+            "custom_model_data": 3
          }
       },
       {  
