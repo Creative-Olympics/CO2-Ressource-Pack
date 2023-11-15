@@ -49,10 +49,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_werewolf",
-         "predicate":{  
-            "damage":0.016645326504481434,
-            "damaged":0
+         "model":"cosmetics:hats/werewolf",
+         "predicate":{
+            "custom_model_data": 9
          }
       },
       {  
