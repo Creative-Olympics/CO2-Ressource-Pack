@@ -91,10 +91,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_beanie_blue",
-         "predicate":{  
-            "damage":0.028809218950064018,
-            "damaged":0
+         "model":"cosmetics:hats/beanie_blue",
+         "predicate":{
+            "custom_model_data": 14
          }
       },
       {  
