@@ -159,10 +159,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_link",
+         "model":"cosmetics:hats/link",
          "predicate":{  
-            "damage":0.06338028169014084,
-            "damaged":0
+            "custom_model_data": 37
          }
       },
       {  
