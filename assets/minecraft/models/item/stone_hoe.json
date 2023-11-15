@@ -97,10 +97,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_pirate",
+         "model":"cosmetics:hats/pirate",
          "predicate":{  
-            "damage":0.029449423815620997,
-            "damaged":0
+            "custom_model_data": 15
          }
       },
       {  
