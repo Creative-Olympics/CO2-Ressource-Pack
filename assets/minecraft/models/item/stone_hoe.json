@@ -145,14 +145,13 @@
             "damaged":0
          }
       },
-      {  
-         "model":"item/custom/hat_snowmanhat",
-         "predicate":{  
-            "damage":0.035211267605633804,
-            "damaged":0
+      {
+         "model": "cosmetics:hats/hat_snowmanhat",
+         "predicate": {
+            "custom_model_data": 33
          }
       },
-      {  
+      {
          "model": "cosmetics:hats/creature_fairy",
          "predicate": {
             "custom_model_data": 34
