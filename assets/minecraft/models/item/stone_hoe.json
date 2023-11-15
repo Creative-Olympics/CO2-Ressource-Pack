@@ -1,28 +1,27 @@
 {  
    "overrides":[  
-      {  
+      {
          "model":"cosmetics:hats/axeinhead",
          "predicate":{
             "custom_model_data": 1
          }
       },
-      {  
+      {
          "model":"cosmetics:hats/pumpkin",
-         "predicate":{  
+         "predicate":{
             "custom_model_data": 2
          }
       },
-      {  
+      {
          "model":"cosmetics:hats/phoenix",
          "predicate":{
             "custom_model_data": 3
          }
       },
-      {  
-         "model":"item/custom/hat_reindeer",
-         "predicate":{  
-            "damage":0.0038412291933418692,
-            "damaged":0
+      {
+         "model":"cosmetics:hats/reindeer",
+         "predicate":{
+            "custom_model_data": 4
          }
       },
       {  
