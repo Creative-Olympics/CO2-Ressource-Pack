@@ -109,14 +109,13 @@
             "damaged":0
          }
       },
-      {  
-         "model":"item/custom/hat_bow",
-         "predicate":{  
-            "damage":0.030729833546734954,
-            "damaged":0
+      {
+         "model": "item/custom/hat_bow",
+         "predicate": {
+            "custom_model_data": 30
          }
       },
-      {  
+      {
          "model": "cosmetics:hats/santa",
          "predicate": {
             "custom_model_data": 31
