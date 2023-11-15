@@ -138,11 +138,10 @@
             "damaged":0
          }
       },
-      {  
-         "model":"item/custom/hat_xmasantlers",
-         "predicate":{  
-            "damage":0.034571062740076826,
-            "damaged":0
+      {
+         "model": "cosmetics:hats/xmasantlers",
+         "predicate": {
+            "custom_model_data": 32
          }
       },
       {
