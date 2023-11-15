@@ -43,10 +43,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_spectacles",
-         "predicate":{  
-            "damage":0.015364916773367477,
-            "damaged":0
+         "model":"cosmetics:hats/spectacles",
+         "predicate":{
+            "custom_model_data": 8
          }
       },
       {  
