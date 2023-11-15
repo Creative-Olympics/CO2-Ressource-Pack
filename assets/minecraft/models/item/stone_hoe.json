@@ -166,10 +166,9 @@
          }
       },
       {  
-         "model":"item/custom/hat_beard",
+         "model":"cosmetics:hats/beard",
          "predicate":{  
-            "damage":0.06402048655569782,
-            "damaged":0
+            "custom_model_data": 38
          }
       },
       {  
