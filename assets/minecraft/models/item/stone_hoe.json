@@ -153,13 +153,12 @@
          }
       },
       {  
-         "model":"item/custom/creature_fairy",
-         "predicate":{  
-            "damage":0.04033290653008963,
-            "damaged":0
+         "model": "cosmetics:hats/creature_fairy",
+         "predicate": {
+            "custom_model_data": 34
          }
       },
-      {  
+      {
          "model": "cosmetics:hats/strooper",
          "predicate": {
             "custom_model_data": 35
